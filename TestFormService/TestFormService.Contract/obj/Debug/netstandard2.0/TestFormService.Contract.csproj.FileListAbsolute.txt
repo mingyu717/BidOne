@@ -1,0 +1,8 @@
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Contract\bin\Debug\netstandard2.0\TestFormService.Contract.deps.json
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Contract\bin\Debug\netstandard2.0\TestFormService.Contract.dll
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Contract\bin\Debug\netstandard2.0\TestFormService.Contract.pdb
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Contract\obj\Debug\netstandard2.0\TestFormService.Contract.csproj.CoreCompileInputs.cache
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Contract\obj\Debug\netstandard2.0\TestFormService.Contract.AssemblyInfoInputs.cache
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Contract\obj\Debug\netstandard2.0\TestFormService.Contract.AssemblyInfo.cs
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Contract\obj\Debug\netstandard2.0\TestFormService.Contract.dll
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Contract\obj\Debug\netstandard2.0\TestFormService.Contract.pdb

@@ -1,0 +1,14 @@
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\bin\Debug\netstandard2.0\TestFormService.Tests.deps.json
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\bin\Debug\netstandard2.0\TestFormService.Tests.dll
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\obj\Debug\netstandard2.0\TestFormService.Tests.csprojAssemblyReference.cache
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\obj\Debug\netstandard2.0\TestFormService.Tests.csproj.CoreCompileInputs.cache
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\obj\Debug\netstandard2.0\TestFormService.Tests.AssemblyInfoInputs.cache
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\obj\Debug\netstandard2.0\TestFormService.Tests.AssemblyInfo.cs
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\bin\Debug\netstandard2.0\TestFormService.Tests.pdb
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\bin\Debug\netstandard2.0\TestFormService.Contract.dll
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\bin\Debug\netstandard2.0\TestFormService.Implementation.dll
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\bin\Debug\netstandard2.0\TestFormService.Implementation.pdb
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\bin\Debug\netstandard2.0\TestFormService.Contract.pdb
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\obj\Debug\netstandard2.0\TestFormService.Tests.csproj.CopyComplete
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\obj\Debug\netstandard2.0\TestFormService.Tests.dll
+c:\users\mingyu.gao\source\repos\TestFormService\TestFormService.Tests\obj\Debug\netstandard2.0\TestFormService.Tests.pdb

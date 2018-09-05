@@ -1,0 +1,9 @@
+TestFormService/TestFormService/bin
+TestFormService/TestFormService/obj
+TestFormService/.vs
+TestFormService/ITestFormService.Implementation/bin
+TestFormService/ITestFormService.Implementation/obj
+TestFormService/TestFormService.Contract/obj
+TestFormService/TestFormService.Contract/bin
+TestFormService/TestFormService.Tests/bin
+TestFormService/TestFormService.Tests/obj
