@@ -19,13 +19,13 @@ namespace TestFormService.Tests
                _underTest = new ProfileService(_profileRepositoryMock.Object);
         }
 
-        [Test]
+        [Test, Description("When profileRepository is null, should throw exception in ProfileService constructor")]
         public void Constructor_Test()
         {
             Assert.Throws<ArgumentNullException>(() => new ProfileService(null));
         }
 
-        [Test]
+        [Test, Description("When profile is saved by profile service, profile repository Save method should be called")]
         public void Save_Test()
         {
             var profile = new Profile {FirstName = "TestFirstName", LastName = "Name"};
